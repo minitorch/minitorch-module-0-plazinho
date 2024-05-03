@@ -6,3 +6,5 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
+
+![](https://raw.githubusercontent.com/minitorch/minitorch-module-0-plazinho/master/Screenshot%20from%202024-05-03%2019-19-02.png)
